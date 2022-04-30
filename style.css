@@ -1,6 +1,4 @@
 body{
-    overflow-x: hidden;
-    flex-direction: column;
     background-color: #EAEAEA;
 }
 
@@ -12,7 +10,7 @@ body{
     padding: 20px;
     border-radius: 1em;
     height: 500px;
-    width: 400px;
+    width: auto;
     margin: auto;
     background-color: rgb(188, 207, 109);
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
