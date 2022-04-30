@@ -3,7 +3,7 @@ function ClearScreen(){
 }
 
 function display(value){
-    document.getElementById("result").value += value;
+    document.getElementById("result").value += " " + value;
 }
 
 function Calculate(){
